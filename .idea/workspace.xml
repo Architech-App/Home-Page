@@ -1,15 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="96cb3d7b-33a0-4826-bc77-ee48f638c8b4" name="Changes" comment="">
+    <list default="true" id="dc6a7364-b623-469c-9e06-f90567d3d24f" name="Changes" comment="Updated email, brought back form, removed lattice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pic06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/noscript.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/base/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/base/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_actions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_actions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_box.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_box.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_contact.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_features.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_features.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_icon.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_icons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_image.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_row.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_row.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_section.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_split.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_split.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_spotlights.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_spotlights.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_table.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_wrapper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_wrapper.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_intro.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_intro.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_sidebar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_wrapper.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_breakpoints.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_breakpoints.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_html-grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_html-grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vendor.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_vendor.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/noscript.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/noscript.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic.html" beforeDir="false" afterPath="$PROJECT_DIR$/generic.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +57,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="24UasTXESuiyVRW9tuRnFCBeh9X" />
+  <component name="ProjectId" id="24rPXRinPrAqauRitoOtCgW7F7p" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,21 +67,50 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\avipa\Downloads\Home-Page\assets\sass" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="96cb3d7b-33a0-4826-bc77-ee48f638c8b4" name="Changes" comment="" />
-      <created>1643687827092</created>
+      <changelist id="dc6a7364-b623-469c-9e06-f90567d3d24f" name="Changes" comment="" />
+      <created>1644385783135</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1643687827092</updated>
-      <workItem from="1643687828889" duration="2608000" />
+      <updated>1644385783135</updated>
+      <workItem from="1644385791139" duration="1453000" />
+      <workItem from="1647051432161" duration="605000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated email, brought back form, removed lattice">
+      <created>1644387250704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644387250704</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated email and brought back form" />
+    <MESSAGE value="Updated email, brought back form, removed lattice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated email, brought back form, removed lattice" />
   </component>
 </project>
