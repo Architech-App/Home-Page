@@ -94,7 +94,7 @@ html {
 }
 
 body {
-    background: #312450;
+    background: #222428;
 }
 
 body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3148,11 +3148,11 @@ table.alt tfoot {
 }
 
 .wrapper.style1-alt {
-    background-color: #6b75e6;
+    background-color: #222428;
 }
 
 .wrapper.style2 {
-    background-color: #6cc7e5;
+    background-color: #1e2023;
 }
 
 .wrapper.style2-alt {
