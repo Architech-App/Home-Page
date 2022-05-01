@@ -148,7 +148,7 @@ a {
     -ms-transition: color 0.2s ease, border-bottom-color 0.2s ease;
     transition: color 0.2s ease, border-bottom-color 0.2s ease;
     border-bottom: dotted 1px rgba(255, 255, 255, 0.35);
-    color: inherit;
+    color: #6cc7e5;
     text-decoration: none;
 }
 
@@ -1830,9 +1830,9 @@ button,
     transition: border-color 0.2s ease;
     background-color: transparent;
     border: solid 1px !important;
-    border-color: rgba(255, 255, 255, 0.15) !important;
+    border-color: #6cc7e5 !important;
     border-radius: 3em;
-    color: #ffffff !important;
+    color: #6cc7e5 !important;
     cursor: pointer;
     display: inline-block;
     font-size: 0.6em;
